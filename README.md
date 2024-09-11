@@ -1,4 +1,4 @@
-VISÃO GERAL
+#VISÃO GERAL
 
 Sistema Web para gestão de Manutenção dos Ares-condicionado
 
@@ -6,7 +6,7 @@ O Sistema de gerenciamento de ares-condicionados é uma plataforma abrangente pr
 manutenção e o uso eficiente dos equipamentos dentro de uma sala no campus universitário. 
 Este sistema visa otimizar esse gerenciamento dos ares-condicionados.
 
-PRINCIPAIS CARACTERISTICAS
+#PRINCIPAIS CARACTERISTICAS
 
 Consultar Informações: metodo para acompanhar as informações necessarias do equipamento de determinada sala.
 Solicitação de manutenção corretiva: funcionalidade para o equipamente com problema.
