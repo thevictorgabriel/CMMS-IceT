@@ -9,5 +9,7 @@ Este sistema visa otimizar esse gerenciamento dos ares-condicionados.
 # PRINCIPAIS CARACTERISTICAS
 
 Consultar Informações: metodo para acompanhar as informações necessarias do equipamento de determinada sala.
+
 Solicitação de manutenção corretiva: funcionalidade para o equipamente com problema.
+
 Emitir Ordem de serviço: o site ira emitir uma ordem para o concerto do equipamento.
