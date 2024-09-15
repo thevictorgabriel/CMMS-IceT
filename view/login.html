@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="../css/login.css">
+    <title>Login</title>
 </head>
 <body>
     <header>
@@ -12,7 +13,7 @@
     <main>
         <div class="login-container">
             <h2>Login</h2>
-            <form method="post" onsubmit="signInWithEmailAndPassword(event)">
+            <form method="post" onsubmit="">
                 <div class="form-group">
                     <label for="email">Email</label>
                     <input type="text" id="email" name="email" required>
@@ -23,12 +24,17 @@
                 </div>
                 <div>
                     <div>
+                        <h3>Esqueceu a senha</h3>
+                    </div>
+                </div>
+                <button type="submit">Entrar</button>
+                
+                <div>
+                    <div>
                         <h3>Ainda não tem conta? </h3><a href="####"><h3>criar conta</h3></a>
                     </div>
                 </div>
-                <button type="submit">Login</button>
             </form>
-
         </div>
     </main>
 </body>
