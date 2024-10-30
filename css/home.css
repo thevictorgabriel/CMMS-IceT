@@ -9,6 +9,7 @@
     --verde: #44E454;
     --vermelho: #F44141;
     --amarelo: #E7F549;
+    --branco: #FFFFFF;
 
 }
 
@@ -22,7 +23,7 @@
     font-size: 16px;
     text-decoration: none;
     list-style: none;
-    color: white;
+    color: var(--branco);
 }
 
 body {
